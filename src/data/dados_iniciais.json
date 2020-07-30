@@ -1,0 +1,176 @@
+{
+  "categorias": [
+    {
+      "titulo": "Origens",
+      "cor": "#6BD1FF",
+     
+      "videos": [
+        {
+          "titulo": "O que é o Rugby?",
+          "url": "https://www.youtube.com/watch?v=wOuycLaJ-_s"
+        },
+        {
+          "titulo": "RugbyHistória #1 - Origens do Rugby",
+          "url": "https://www.youtube.com/watch?v=LzbNiZUPPY8&list=PL37zG0DafE8eNxrcHF3oOxm5E0VHEuvNr"
+        },
+        {
+          "titulo": "RugbyHistória #2 - Origens do Rugby no Brasil",
+          "url": "https://www.youtube.com/watch?v=tFdy-4VwWvg&list=PL37zG0DafE8eNxrcHF3oOxm5E0VHEuvNr&index=2"
+        },
+        {
+          "titulo": "Rugby História #3 - O Campeonato Sul-Americano de Rugby1",
+          "url": "https://www.youtube.com/watch?v=bV8m-4DrZv8&list=PL37zG0DafE8eNxrcHF3oOxm5E0VHEuvNr&index=3"
+        },
+        {
+          "titulo": "História da Copa do Mundo Feminina",
+          "url": "https://www.youtube.com/watch?v=wsQ9Qk0Tsd8&list=PL37zG0DafE8eNxrcHF3oOxm5E0VHEuvNr&index=4"
+        },
+        {
+          "titulo": "Cultura de Rugby #1 A Língua do Rugby!",
+          "url": "https://www.youtube.com/watch?v=L-Tra-JQevQ&list=PL37zG0DafE8fMS_jpxVvOBUcHSOTTjAEY"
+        },
+        {
+          "titulo": "Cultura de Rugby #2 - As alcunhas do rugby",
+          "url": "https://www.youtube.com/watch?v=o3XK_k8R7ig&list=PL37zG0DafE8fMS_jpxVvOBUcHSOTTjAEY&index=2"
+        },
+        {
+          "titulo": "#ViciadosEmRugby - Clubes brasileiros que não existem mais!",
+          "url": "https://www.youtube.com/watch?v=YzJbT52Y23U&list=PL37zG0DafE8fMS_jpxVvOBUcHSOTTjAEY&index=3"
+        }        
+      ]
+    },
+    {
+      "titulo": "Regras",
+      "cor": "#00C86F",
+      
+      "videos": [
+        {
+          "titulo": "Guia para Iniciantes - O Rugby em 3 minutos!",
+          "url": "https://www.youtube.com/watch?v=GZz2yj1r3M0&t=11s"
+        },
+        {
+          "titulo": "Impedimento (Offside)",
+          "url": "https://www.youtube.com/watch?v=sep0bXPWulE&list=PLLKcuqR3RJ3hTwQuzPQnmBwlFPiAJpDn-"
+        },
+        {
+          "titulo": "Ruck",
+          "url": "https://www.youtube.com/watch?v=DH-K3v2M1qo&list=PLLKcuqR3RJ3hTwQuzPQnmBwlFPiAJpDn-&index=2"
+        },
+        {
+          "titulo": "Tackle",
+          "url": "https://www.youtube.com/watch?v=QBnwl8qQm8g&list=PLLKcuqR3RJ3hTwQuzPQnmBwlFPiAJpDn-&index=3"
+        }, 
+        {
+          "titulo": "Maul",
+          "url": "https://www.youtube.com/watch?v=8fx-h3rwNyc&list=PLLKcuqR3RJ3hTwQuzPQnmBwlFPiAJpDn-&index=4"
+        },
+        {
+          "titulo": "Lateral ou Lineout",
+          "url": "https://www.youtube.com/watch?v=llGlWJxIcuE&list=PLLKcuqR3RJ3hTwQuzPQnmBwlFPiAJpDn-&index=5"
+        },
+        {
+          "titulo": "Drop Kick e Chute",
+          "url": "https://www.youtube.com/watch?v=LD1SzYYFfa0&list=PLLKcuqR3RJ3hTwQuzPQnmBwlFPiAJpDn-&index=6"
+        }
+      ]
+    },
+    {
+      "titulo": "Seleção Brasileira",
+      "cor": "#9cd33b",
+      
+      "videos": [
+        {
+          "titulo": "Conheça os atletas do Rugby Brasileiro",
+          "url": "https://www.youtube.com/watch?v=ewTYOy2kMPk"
+        },
+        {
+          "titulo": "Tupis vs Maoris",
+          "url": "https://www.youtube.com/watch?v=Tdo7Y9RE1Cw&t=3s"
+        },
+        {
+          "titulo": "Tupis vs All Blacks ( seven masculino)",
+          "url": "https://www.youtube.com/watch?v=FnqguwjuDWw&t=5s"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=TPfbpsGCfrE"
+        }
+      ]
+    },
+    {
+      "titulo": "Highlights",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=MDYMUf-Q5vY"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=vYsiPT2S3nc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=LE04sV4W44A"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=DGn_tQUi-mw"
+        }
+      ]
+    },
+    {
+      "titulo": "Melhores Tackles",
+      
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=7gWYwo_KG2U"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=-aOwkHwI5jQ"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=kR7Q-gRWtEU"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=HWmEZHX5gEo"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=LmOO4O5HvC0"
+        }
+      ]
+    },
+    {
+      "titulo": "Haka",
+      "cor": "#6b5be2",
+      
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=eIkqn7LBrmc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=vnvI6V-TtLs"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=vrb7y6UPHqM"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Ko3kYNKuX8s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=uzg4rJJNX30"
+        }
+      ]
+    }
+  ]
+}
